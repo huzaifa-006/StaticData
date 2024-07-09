@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:adnroid="http://schemas.android.com/apk/res-auto">
+<item
+    android:title="@string/about_edit"
+    adnroid:id="@+id/about_edit" />
+    <item
+        android:id="@+id/about_share"
+        android:title="@string/about_share" />
+    <item
+        android:id="@+id/about_delete"
+        android:title="@string/about_delete" />
+</menu>
